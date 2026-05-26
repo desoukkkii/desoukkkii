@@ -30,7 +30,7 @@
 I am a Computer Science Student and Full Stack Developer passionate about building clean, scalable applications. I specialize in Web Development with a focus on modern technologies and best practices. I have hands-on experience across the full development lifecycle and am committed to delivering <strong>stable, secure, user-centered, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals. I am deeply interested in <strong>AI, Robotics, and Linux Systems</strong> and love exploring how they intersect with modern web technologies.
 <hr>
 <h1 align="left">✅ Technical Skills:</h1>
-<img align="right" alt="coding gif" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVuY2JlbG01M3Y0enUzbDY3dHB0Y2htN3N2MW1zYmJzeGk0bDZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXnj3jCwvETngjy11B/giphy.gif">
+<img align="right" alt="coding gif" width="400" src="">
 <h3>Frontend Web Development</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
