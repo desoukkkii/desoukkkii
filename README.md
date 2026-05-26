@@ -97,7 +97,7 @@ I am a Computer Science Student and Full Stack Developer passionate about buildi
       <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge"  />
   </a>
   
-  <a href="https://www.linkedin.com/in/desoukkkii" title="linkedin" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/desoukkkiii" title="linkedin" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
   </a>
   
