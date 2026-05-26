@@ -1,9 +1,6 @@
-<!--------------------------------------- Slider --------------------------------------->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Mohammed+Desouki;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer&color=DAA520&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Mohammed+Desouki;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer&color=DAA520&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
-
-<!--------------------------------------- Contact --------------------------------------->
 
 📫 How to reach me:
 
@@ -28,41 +25,17 @@
 
 👀 Feel free to take a look at my **Portfolio**: https://desouki.netlify.app/
 
-<!--------------------------------------- Bio --------------------------------------->
 <br/>
 <h1 align="center">Hello there 👋, I'm Mohammed Desouki</h1>
 I am a Computer Science Student and Full Stack Developer passionate about building clean, scalable applications. I specialize in Web Development with a focus on modern technologies and best practices. I have hands-on experience across the full development lifecycle and am committed to delivering <strong>stable, secure, user-centered, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals. I am deeply interested in <strong>AI, Robotics, and Linux Systems</strong> and love exploring how they intersect with modern web technologies.
 <hr>
-<!--------------------------------------- Tech Skills --------------------------------------->
 <h1 align="left">✅ Technical Skills:</h1>
-<!--------------------------------------- GIF --------------------------------------->
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3>Web Design and UI/UX Engineering</h3>
-<p>
-  <img src="https://img.shields.io/badge/Responsive%20Design-0F172A?style=for-the-badge" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
 <h3>Frontend Web Development</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/AJAX-0F172A?style=for-the-badge" alt="AJAX" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-</p>
-
-<h3>Backend Architecture and Development</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge" alt="OOP" />
 </p>
 
 <h3>Programming Languages</h3>
@@ -71,25 +44,14 @@ I am a Computer Science Student and Full Stack Developer passionate about buildi
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-<h3>Database Design and Development</h3>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<h3>DevOps, Tooling, and Engineering Practices</h3>
+<h3>Tools & Environment</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-1F2937?style=for-the-badge" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/Command%20Line-4D4D4D?style=for-the-badge" alt="Command Line" />
-  <img src="https://img.shields.io/badge/Networking%20Fundamentals-1D4ED8?style=for-the-badge" alt="Networking Fundamentals" />
 </p>
 
-<!--------------------------------------- Currently Learning --------------------------------------->
 <hr>
 <h1 align="left">🚀 Currently Learning:</h1>
 
@@ -98,20 +60,17 @@ I am a Computer Science Student and Full Stack Developer passionate about buildi
   <img src="https://img.shields.io/badge/Backend%20Architecture-0F172A?style=for-the-badge" alt="Backend Architecture" />
   <img src="https://img.shields.io/badge/Modern%20Web%20Technologies-0F172A?style=for-the-badge" alt="Modern Web Technologies" />
   <img src="https://img.shields.io/badge/AI%20%26%20Robotics-0F172A?style=for-the-badge" alt="AI & Robotics" />
-  <img src="https://img.shields.io/badge/Cloud%20Deployment-0F172A?style=for-the-badge" alt="Cloud Deployment" />
-  <img src="https://img.shields.io/badge/Authentication%20Systems-0F172A?style=for-the-badge" alt="Authentication Systems" />
 </p>
 
-<!--------------------------------------- Graphs --------------------------------------->
 <hr>
 <h2 align="left">📊 GitHub Analytics</h2>
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=tokyonight" alt="Mohammed Desouki languages by repo" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=tokyonight" alt="Mohammed Desouki GitHub stats card" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=tokyonight" alt="Languages by repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=tokyonight" alt="GitHub stats card" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=tokyonight" alt="Mohammed Desouki profile summary" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=tokyonight" alt="Profile summary" />
 </p>
 
 <br/>
@@ -126,7 +85,6 @@ I am a Computer Science Student and Full Stack Developer passionate about buildi
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </p>
 
-<!--------------------------------------- Brief --------------------------------------->
 <hr>
 
 <p align="left">If you are seeking a talented, hardworking, quick learner, and team player, I am the ideal candidate for you. I am confident that our cooperation will bring profit to your project, and I am fully committed to accomplishing all set objectives to the best of my abilities. So let's keep in touch!
