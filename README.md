@@ -23,7 +23,7 @@
 </div>
 <br/>
 
-👀 Feel free to take a look at my **Portfolio**: https://desouki.netlify.app/
+👀 Feel free to take a look at my **Portfolio**: https://desouki.netlify.app
 
 <br/>
 <h1 align="center">Hello there 👋, I'm Mohammed Desouki</h1>
