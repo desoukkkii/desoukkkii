@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=desoukkkiii&label=Profile+Views&color=8B0000&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=desoukkkii&label=Profile+Views&color=8B0000&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/desoukkkiii?tab=followers">
   <img src="https://img.shields.io/github/followers/desoukkkiii?label=Followers&style=for-the-badge&color=8B0000&labelColor=0d1117" />
