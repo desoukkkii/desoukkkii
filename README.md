@@ -1,50 +1,157 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:8B0000,100:C41E3A&height=200&section=header&text=Mohammed%20Desouki&fontSize=50&fontColor=FFD700&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=DAA520&animation=fadeIn" /><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=DAA520&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast;Building+the+future%2C+one+line+at+a+time." alt="Typing SVG" /> </a>
-<img src="https://komarev.com/ghpvc/?username=desoukkkii&label=Profile+Views&color=8B0000&style=for-the-badge&labelColor=0d1117" alt="Profile Views" /> &nbsp; <a href="https://github.com/desoukkkii?tab=followers"> <img src="https://img.shields.io/github/followers/desoukkkii?label=Followers&style=for-the-badge&color=8B0000&labelColor=0d1117" /> </a></div>
-🧑‍💻  About Me
-typescript
+<!--------------------------------------- Slider --------------------------------------->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Mohammed+Desouki;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer&color=DAA520&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-const mohammed = {
-  name        : "Mohammed Desouki",
-  role        : "Computer Science Student & Full Stack Developer",
-  location    : "Egypt 🇪🇬",
-  focus       : ["Full Stack Development", "AI & Robotics", "Linux Systems"],
-  bio         : "Passionate CS student building clean, scalable applications.",
-  currentGoal : "Master backend architecture and modern web technologies.",
-  funFact     : "I debug better at midnight ☕",
-};
+<!--------------------------------------- Contact --------------------------------------->
 
+📫 How to reach me:
 
-    "Code is not just syntax — it's architecture, logic, and a story told to machines."
-
-
-🛠️  Tech Stack
-<div align="center">
-🌐  Frontend
-<p> <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=FFD700" /> <img src="https://img.shields.io/badge/CSS3-6B0000?style=for-the-badge&logo=css3&logoColor=FFD700" /> <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=DAA520" /> </p>
-⚙️  Languages
-<p> <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=DAA520" /> <img src="https://img.shields.io/badge/C++-8B0000?style=for-the-badge&logo=cplusplus&logoColor=FFD700" /> </p>
-🧰  Tools & Environment
-<p> <img src="https://img.shields.io/badge/Fedora_Linux-1a1a1a?style=for-the-badge&logo=fedora&logoColor=DAA520" /> <img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700" /> <img src="https://img.shields.io/badge/Git-6B0000?style=for-the-badge&logo=git&logoColor=FFD700" /> <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=DAA520" /> </p></div>
-🚀  Currently Learning
-<div align="center">
-Area	Topics	Status
-🌐 Full Stack Development	React, Node.js, REST APIs, Databases	🔄 In Progress
-🖥️ Backend Development	Express, PostgreSQL, Docker, Authentication	🔄 In Progress
-⚡ Modern Web Technologies	TypeScript, Next.js, Cloud Deployment	🔜 Up Next
+<div align="left">
+  <a href="https://desouki.netlify.app/" title="portfolio" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge"  />
+  </a>
+  <a href="https://www.linkedin.com/in/desoukkkii" title="linkedin" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
+  </a>
+  <a href="mailto:desouki.infosec@gmail.com" title="gmail" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge"  />  
+  </a>
+  <a href="https://wa.me/201040166286" title="whatsapp" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp badge"  />
+  </a>
+  <a href="https://discord.com/users/desoukkkii" title="discord" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord badge"  />
+  </a>
 </div>
-<div align="center"> <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=DAA520" /> <img src="https://img.shields.io/badge/Node.js-8B0000?style=for-the-badge&logo=nodedotjs&logoColor=FFD700" /> <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=DAA520" /> <img src="https://img.shields.io/badge/Next.js-6B0000?style=for-the-badge&logo=nextdotjs&logoColor=FFD700" /> <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=DAA520" /> <img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=FFD700" /> </div>
-📊  GitHub Analytics
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=desoukkkii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DAA520&icon_color=C41E3A&text_color=e8d5b0&ring_color=8B0000" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=0d1117&ring=C41E3A&fire=DAA520&currStreakLabel=DAA520&sideLabels=DAA520&dates=e8d5b0&sideNums=FFD700&currStreakNum=FFD700" />
+<br/>
 
+👀 Feel free to take a look at my **Portfolio**: https://desouki.netlify.app/
 
+<!--------------------------------------- Bio --------------------------------------->
+<br/>
+<h1 align="center">Hello there 👋, I'm Mohammed Desouki</h1>
+I am a Computer Science Student and Full Stack Developer passionate about building clean, scalable applications. I specialize in Web Development with a focus on modern technologies and best practices. I have hands-on experience across the full development lifecycle and am committed to delivering <strong>stable, secure, user-centered, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals. I am deeply interested in <strong>AI, Robotics, and Linux Systems</strong> and love exploring how they intersect with modern web technologies.
+<hr>
+<!--------------------------------------- Tech Skills --------------------------------------->
+<h1 align="left">✅ Technical Skills:</h1>
+<!--------------------------------------- GIF --------------------------------------->
+<img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3>Web Design and UI/UX Engineering</h3>
+<p>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0F172A?style=for-the-badge" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desoukkkii&layout=compact&hide_border=true&bg_color=0d1117&title_color=DAA520&text_color=e8d5b0&langs_count=8" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=desoukkkii&theme=dracula&utcOffset=2" /></div>
-<div align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Activity%20Graph" /> </div>
-🏆  GitHub Trophies
-<div align="center"> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=desoukkkii&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" /> </div>
-🌐  Connect With Me
-<div align="center"><a href="mailto:desouki.infosec@gmail.com"> <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" /> </a> &nbsp; <a href="https://www.linkedin.com/in/desoukkkii" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-6B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" /> </a> &nbsp; <a href="https://desouki.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=netlify&logoColor=DAA520" /> </a> &nbsp; <a href="https://wa.me/201040166286" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-8B0000?style=for-the-badge&logo=whatsapp&logoColor=FFD700" /> </a> &nbsp; <a href="https://discord.com/users/desoukkkii" target="_blank"> <img src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=DAA520" /> </a></div>
+<h3>Frontend Web Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/AJAX-0F172A?style=for-the-badge" alt="AJAX" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
 
+<h3>Backend Architecture and Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge" alt="OOP" />
+</p>
 
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DAA520,40:C41E3A,100:0d1117&height=130&section=footer&animation=fadeIn" /> <sub> <b>✦ Mohammed Desouki</b> &nbsp;·&nbsp; Computer Science Student &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; AI & Robotics Enthusiast<br/> <i>Crafted with precision from Egypt 🇪🇬 &nbsp;·&nbsp; Open to collaborations & opportunities</i> </sub> </div>
+<h3>Database Design and Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<h3>DevOps, Tooling, and Engineering Practices</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-1F2937?style=for-the-badge" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Command%20Line-4D4D4D?style=for-the-badge" alt="Command Line" />
+  <img src="https://img.shields.io/badge/Networking%20Fundamentals-1D4ED8?style=for-the-badge" alt="Networking Fundamentals" />
+</p>
+
+<!--------------------------------------- Currently Learning --------------------------------------->
+<hr>
+<h1 align="left">🚀 Currently Learning:</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-0F172A?style=for-the-badge" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/Modern%20Web%20Technologies-0F172A?style=for-the-badge" alt="Modern Web Technologies" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-0F172A?style=for-the-badge" alt="AI & Robotics" />
+  <img src="https://img.shields.io/badge/Cloud%20Deployment-0F172A?style=for-the-badge" alt="Cloud Deployment" />
+  <img src="https://img.shields.io/badge/Authentication%20Systems-0F172A?style=for-the-badge" alt="Authentication Systems" />
+</p>
+
+<!--------------------------------------- Graphs --------------------------------------->
+<hr>
+<h2 align="left">📊 GitHub Analytics</h2>
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=tokyonight" alt="Mohammed Desouki languages by repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=tokyonight" alt="Mohammed Desouki GitHub stats card" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=tokyonight" alt="Mohammed Desouki profile summary" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=0d1117&ring=C41E3A&fire=DAA520&currStreakLabel=DAA520&sideLabels=DAA520&dates=e8d5b0&sideNums=FFD700&currStreakNum=FFD700" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+</p>
+
+<!--------------------------------------- Brief --------------------------------------->
+<hr>
+
+<p align="left">If you are seeking a talented, hardworking, quick learner, and team player, I am the ideal candidate for you. I am confident that our cooperation will bring profit to your project, and I am fully committed to accomplishing all set objectives to the best of my abilities. So let's keep in touch!
+</p>
+
+<br/>
+
+<div align="left">
+  <a href="https://desouki.netlify.app/" title="portfolio" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/desoukkkii" title="linkedin" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
+  </a>
+  
+  <a href="mailto:desouki.infosec@gmail.com" title="gmail" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge"  />  
+  </a>
+  
+  <a href="https://wa.me/201040166286" title="whatsapp" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp badge"  />
+  </a>
+  
+  <a href="https://discord.com/users/desoukkkii" title="discord" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord badge"  />
+  </a>
+</div>
