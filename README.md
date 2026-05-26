@@ -13,8 +13,8 @@
 <!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=desoukkkii&label=Profile+Views&color=8B0000&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/desoukkkiii?tab=followers">
-  <img src="https://img.shields.io/github/followers/desoukkkiii?label=Followers&style=for-the-badge&color=8B0000&labelColor=0d1117" />
+<a href="https://github.com/desoukkkii?tab=followers">
+  <img src="https://img.shields.io/github/followers/desoukkkii?label=Followers&style=for-the-badge&color=8B0000&labelColor=0d1117" />
 </a>
 
 </div>
@@ -126,20 +126,20 @@ const mohammed = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=desoukkkiii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DAA520&icon_color=C41E3A&text_color=e8d5b0&ring_color=8B0000" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkiii&hide_border=true&background=0d1117&ring=C41E3A&fire=DAA520&currStreakLabel=DAA520&sideLabels=DAA520&dates=e8d5b0&sideNums=FFD700&currStreakNum=FFD700" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=desoukkkii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DAA520&icon_color=C41E3A&text_color=e8d5b0&ring_color=8B0000" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=0d1117&ring=C41E3A&fire=DAA520&currStreakLabel=DAA520&sideLabels=DAA520&dates=e8d5b0&sideNums=FFD700&currStreakNum=FFD700" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desoukkkiii&layout=compact&hide_border=true&bg_color=0d1117&title_color=DAA520&text_color=e8d5b0&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=desoukkkiii&theme=dracula&utcOffset=2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desoukkkii&layout=compact&hide_border=true&bg_color=0d1117&title_color=DAA520&text_color=e8d5b0&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=desoukkkii&theme=dracula&utcOffset=2" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkiii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </div>
 
 <br/>
@@ -153,7 +153,7 @@ const mohammed = {
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=desoukkkiii&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=desoukkkii&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 <br/>
@@ -172,7 +172,7 @@ const mohammed = {
   <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/desoukkkiii" target="_blank">
+<a href="https://www.linkedin.com/in/desoukkkii" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-6B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 &nbsp;
@@ -184,7 +184,7 @@ const mohammed = {
   <img src="https://img.shields.io/badge/WhatsApp-8B0000?style=for-the-badge&logo=whatsapp&logoColor=FFD700" />
 </a>
 &nbsp;
-<a href="https://discord.com/users/desoukkkiii" target="_blank">
+<a href="https://discord.com/users/desoukkkii" target="_blank">
   <img src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=DAA520" />
 </a>
 
