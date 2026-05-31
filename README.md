@@ -28,7 +28,7 @@
 
 <br/>
 
-<h1 align="center">Hello there 👋, I'm Mohammed Desouki</h1>
+<h1 align="center">Hello there 👋, I'm Desouki</h1>
 
 I am a Computer Science Student and Full Stack Developer passionate about building clean, scalable applications. I specialize in Web Development with a focus on modern technologies and best practices. I have hands-on experience across the full development lifecycle and am committed to delivering <strong>stable, secure, user-centered, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals. I am deeply interested in <strong>AI, Robotics, and Linux Systems</strong> and love exploring how they intersect with modern web technologies.
 
@@ -87,7 +87,7 @@ I am a Computer Science Student and Full Stack Developer passionate about buildi
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=tokyonight" alt="Profile summary" />
 </p>
 
-<br/>
+<br/>GitHub Analytics
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=0d1117&ring=C41E3A&fire=DAA520&currStreakLabel=DAA520&sideLabels=DAA520&dates=e8d5b0&sideNums=FFD700&currStreakNum=FFD700" />
