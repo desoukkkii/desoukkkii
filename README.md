@@ -5,11 +5,11 @@
 📫 How to reach me:
 
 <div align="left">
-  <a href="https://desouki.netlify.app/" title="portfolio" target="_blank">
+  <a href="https://quantio.netlify.app/" title="portfolio" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/desoukkkiii" title="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/desoukkkii" title="linkedin" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin badge" />
   </a>
 
