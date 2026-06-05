@@ -1,108 +1,138 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Mohammed+Desouki;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer&color=DAA520&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+👋;I'm+Mohammed+Desouki;Computer+Science+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast&color=DAA520&weight=900&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
-📫 How to reach me:
-
-<div align="left">
-  <a href="https://quantio.netlify.app/" title="portfolio" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&style=for-the-badge" height="35" alt="portfolio badge" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/desoukkkii" title="linkedin" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin badge" />
-  </a>
-
-  <a href="mailto:desouki.infosec@gmail.com" title="gmail" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail badge" />
-  </a>
-
-  <a href="https://wa.me/201040166286" title="whatsapp" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp badge" />
-  </a>
-
-  <a href="https://discord.com/users/desoukkkii" title="discord" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" alt="discord badge" />
-  </a>
-</div>
-
-<br/>
-
-<h1 align="center">Hello there 👋, I'm Mohammed Desouki</h1>
-
-I am a Computer Science Student and Full Stack Developer passionate about building clean, scalable applications. I specialize in Web Development with a focus on modern technologies and best practices. I have hands-on experience across the full development lifecycle and am committed to delivering <strong>stable, secure, user-centered, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals. I am deeply interested in <strong>AI, Robotics, and Linux Systems</strong> and love exploring how they intersect with modern web technologies.
-
-<hr>
-
-<h2 align="left">✅ Technical Skills</h2>
-
-<img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/userupload/22212526/file/original-163af1a9d4a522c79ff7ece742cd37ec.gif">
-
-<h3>Frontend Web Development</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<h3>Programming Languages</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-<h3>Tools & Environment</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-<hr>
-
-<h2 align="left">🚀 Currently Learning</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge" alt="Linux" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-0F172A?style=for-the-badge" alt="AI & Robotics" />
-</p>
-
-<hr>
-
-<h2 align="left">📊 GitHub Analytics</h2>
+<h1 align="center">Mohammed Desouki</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=tokyonight" alt="Languages by repo" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=tokyonight" alt="GitHub stats card" />
+  <strong>Computer Science Student • Full Stack Developer • AI & Robotics Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=tokyonight" alt="Profile summary" />
+Passionate about building modern software, exploring artificial intelligence, and creating technology that delivers real-world impact.
 </p>
 
-<br/>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://quantio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F48024?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/desoukkkii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:desouki.infosec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/201040166286" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/desoukkkii" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student with a strong interest in software engineering, web technologies, artificial intelligence, and robotics.
+
+I enjoy building clean, scalable, and user-focused applications while continuously improving my technical knowledge and problem-solving abilities. My goal is to become a highly skilled software engineer capable of creating impactful solutions across modern web and intelligent systems.
+
+Currently, I'm focused on strengthening my Full Stack Development skills while exploring AI, automation, and Linux-based environments.
+
+---
+
+## 🚀 What I'm Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+* Modern React Development
+* Backend Development with Node.js & Express
+* Database Design & APIs
+* Linux Administration
+* Artificial Intelligence Fundamentals
+* Software Architecture & Best Practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready Full Stack applications
+* Master React and modern frontend development
+* Develop scalable backend systems
+* Explore AI Engineering and Intelligent Systems
+* Contribute to Open Source projects
+* Gain professional software development experience
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=0d1117&ring=C41E3A&fire=DAA520&currStreakLabel=DAA520&sideLabels=DAA520&dates=e8d5b0&sideNums=FFD700&currStreakNum=FFD700" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d1117&color=DAA520&line=C41E3A&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </p>
 
-<hr>
+---
 
-<h2 align="left">🤝 Open to Collaboration</h2>
+## 🤝 Open to Collaboration
 
-<p>
-Interested in collaborating on Web Development, AI, Robotics, Linux, and Open Source projects.
+I am always interested in collaborating on projects involving:
+
+* Full Stack Development
+* Artificial Intelligence
+* Robotics & Automation
+* Linux & Open Source
+* Developer Tools & Productivity Software
+
+If you have an interesting project or opportunity, feel free to connect with me.
+
+---
+
+<p align="center">
+  <i>"Continuous learning, consistent building, and meaningful impact."</i>
 </p>
