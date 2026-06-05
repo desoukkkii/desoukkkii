@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+👋;I'm+Mohammed+Desouki;Computer+Science+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast&color=DAA520&weight=900&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=DAA520&center=true&vCenter=true&width=700&lines=console.log(%22Hello%2C+World!%22);Mohammed+Desouki;Full+Stack+Developer;AI+%26+Robotics+Enthusiast;Linux+User" alt="Typing SVG" />
 </p>
-
 <h1 align="center">Mohammed Desouki</h1>
 
 <p align="center">
@@ -9,7 +8,7 @@
 </p>
 
 <p align="center">
-Passionate about building modern software, exploring artificial intelligence, and creating technology that delivers real-world impact.
+  Building modern web applications, exploring artificial intelligence, and continuously learning new technologies.
 </p>
 
 ---
@@ -42,32 +41,28 @@ Passionate about building modern software, exploring artificial intelligence, an
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student with a strong interest in software engineering, web technologies, artificial intelligence, and robotics.
+<img align="right" alt="coding gif" width="320" src="https://cdn.dribbble.com/userupload/22212526/file/original-163af1a9d4a522c79ff7ece742cd37ec.gif">
 
-I enjoy building clean, scalable, and user-focused applications while continuously improving my technical knowledge and problem-solving abilities. My goal is to become a highly skilled software engineer capable of creating impactful solutions across modern web and intelligent systems.
+I'm a Computer Science student passionate about software engineering, web development, artificial intelligence, and robotics.
 
-Currently, I'm focused on strengthening my Full Stack Development skills while exploring AI, automation, and Linux-based environments.
+My goal is to build scalable, efficient, and user-focused applications while continuously improving my technical and problem-solving skills.
 
----
+I enjoy transforming ideas into real products, learning modern technologies, and exploring the intersection between software, automation, and intelligent systems.
 
-## 🚀 What I'm Currently Learning
+* 🎓 Computer Science Student
+* 💻 Full Stack Developer Path
+* 🤖 AI & Robotics Enthusiast
+* 🐧 Linux User
+* 🚀 Open Source Supporter
+* 📚 Lifelong Learner
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-* Modern React Development
-* Backend Development with Node.js & Express
-* Database Design & APIs
-* Linux Administration
-* Artificial Intelligence Fundamentals
-* Software Architecture & Best Practices
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -87,14 +82,29 @@ Currently, I'm focused on strengthening my Full Stack Development skills while e
 
 ---
 
+## 🚀 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+* React Ecosystem
+* Backend Development with Node.js
+* REST APIs & Databases
+* Software Architecture
+* Artificial Intelligence Fundamentals
+* Robotics & Automation
+
+---
+
 ## 🎯 2026 Goals
 
 * Build production-ready Full Stack applications
-* Master React and modern frontend development
-* Develop scalable backend systems
-* Explore AI Engineering and Intelligent Systems
-* Contribute to Open Source projects
-* Gain professional software development experience
+* Master React and Backend Development
+* Learn System Design Fundamentals
+* Explore AI Engineering
+* Contribute to Open Source Projects
+* Land Software Engineering Internships
 
 ---
 
@@ -119,20 +129,20 @@ Currently, I'm focused on strengthening my Full Stack Development skills while e
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Open To Collaboration
 
-I am always interested in collaborating on projects involving:
+I'm interested in collaborating on projects related to:
 
 * Full Stack Development
 * Artificial Intelligence
 * Robotics & Automation
 * Linux & Open Source
-* Developer Tools & Productivity Software
+* Developer Tools
 
-If you have an interesting project or opportunity, feel free to connect with me.
+Feel free to connect, collaborate, or discuss new ideas.
 
 ---
 
 <p align="center">
-  <i>"Continuous learning, consistent building, and meaningful impact."</i>
+  <i>"Learning by building, improving through consistency."</i>
 </p>
