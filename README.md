@@ -64,20 +64,10 @@ I'm a **Computer Science Student** and **Full Stack Developer** passionate about
 
 ---
 
-## 🎯 What I'm Up To
-
-- 🔭 Building full-stack web applications
-- 🌱 Learning MERN stack (React, Node.js, Express, MongoDB)
-- 🤖 Exploring AI integration in web apps
-- 🐧 Deep diving into Linux system administration
-
----
-
-## 📈 Quick Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalFollowers&url=https%3A%2F%2Fapi.github-star-counter.vercel.app%2Fapi%2Fdesoukkkii&style=for-the-badge&color=DC143C" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.data.totalStars&url=https%3A%2F%2Fapi.github-star-counter.vercel.app%2Fapi%2Fdesoukkkii&style=for-the-badge&color=DC143C" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&theme=tokyonight&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 </p>
 
 ---
