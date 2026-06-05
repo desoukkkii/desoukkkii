@@ -64,14 +64,6 @@ I'm a **Computer Science Student** and **Full Stack Developer** passionate about
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&theme=tokyonight&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=desoukkkii&color=DC143C&style=flat-square" alt="Profile views" />
 </p>
