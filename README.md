@@ -1,201 +1,87 @@
-<!-- ████████████████████████ HEADER ████████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,50:1a0000,100:2d0000&height=160&section=header" />
+<h1 align="center">Hi there 👋, I'm Mohammed Desouki</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast;Linux+Lover&color=DC143C&weight=600&font=Fira%20Code&center=true&width=450&height=50&duration=3500&pause=1000" alt="Typing SVG">
+</p>
 
-<!-- BOOT SEQUENCE TYPING -->
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=900&color=C41E3A&center=true&vCenter=true&width=620&height=65&lines=SYSTEM+%3A%2F%2F+DESOUKI_OS+v2.0;%5B+BOOTING...+%5D+Loading+profile...;%3E+CS+Student+%2F+AI+%26+Robotics;%3E+Full+Stack+Developer;%3E+Building+things+that+matter.)](https://quantio.netlify.app/)
+---
 
-<br/>
+## 🧑‍💻 About Me
 
-<!-- PROFILE VIEWS -->
-![Profile Views](https://komarev.com/ghpvc/?username=desoukkkii&color=C41E3A&style=flat-square&label=Profile+Views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/desoukkkii?color=C41E3A&style=flat-square&logo=github&label=Followers)
+I'm a **Computer Science Student** and **Full Stack Developer** passionate about building clean, scalable applications. 
 
-<br/><br/>
+- 🎯 Focused on **stable, secure, user-centered systems**
+- 🤖 Deeply interested in **AI, Robotics, and Linux**
+- 🌱 Currently leveling up my **MERN stack** skills
+- 🤝 Open to collaborating on **web dev, AI, robotics, and open source**
 
-<!-- CONTACT BADGES -->
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-quantio.netlify.app-C41E3A?style=flat-square&logoColor=white&logo=googlechrome)](https://quantio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-desoukkkii-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desoukkkii)
-[![Gmail](https://img.shields.io/badge/◈_EMAIL-desouki.infosec-8B0000?style=flat-square&logo=gmail&logoColor=white)](mailto:desouki.infosec@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/◈_WHATSAPP-Message_Me-1a5c1a?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201040166286)
-[![Discord](https://img.shields.io/badge/◈_DISCORD-desoukkkii-3a3a8c?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/desoukkkii)
+---
 
-</div>
+## 📫 Connect With Me
 
-<br/>
+<p align="center">
+  <a href="https://quantio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F48024?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/desoukkkii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:desouki.infosec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201040166286" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/desoukkkii" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-<!-- ████████████████████████ WHOAMI ████████████████████████ -->
-## `> whoami`
+---
 
-<table>
-<tr>
-<td width="54%" valign="top">
+## 🛠️ Tech Stack
 
-```
-┌──────────────────────────────────┐
-│  IDENTITY     Mohammed Desouki   │
-│  LOCATION     Egypt              │
-│  ROLE         CS Student         │
-│  FOCUS        AI · Robotics ·    │
-│               Full Stack Dev     │
-└──────────────────────────────────┘
-```
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Architect of clean, scalable systems.  
-> I build at the intersection of **web development**,  
-> **artificial intelligence**, and **robotics**.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-- `[*]` Writing secure, maintainable code
-- `[*]` Exploring AI/ML & intelligent systems
-- `[*]` Deep in **Linux** environments
-- `[*]` Currently mastering **React · Node · Express**
-- `[*]` Open to collaborations & open source
+### Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</td>
-<td width="46%" align="center" valign="top">
+### Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://cdn.dribbble.com/userupload/22212526/file/original-163af1a9d4a522c79ff7ece742cd37ec.gif" width="100%" style="border-radius:8px" />
+---
 
-</td>
-</tr>
-</table>
+## 🎯 What I'm Up To
 
-<br/>
+- 🔭 Building full-stack web applications
+- 🌱 Learning MERN stack (React, Node.js, Express, MongoDB)
+- 🤖 Exploring AI integration in web apps
+- 🐧 Deep diving into Linux system administration
 
-<!-- ████████████████████████ SKILLS ████████████████████████ -->
-## `> ls skills/`
+---
 
-<div align="center">
+## 📈 Quick Stats
 
-<table>
-<tr>
-<td align="center" width="25%">
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalFollowers&url=https%3A%2F%2Fapi.github-star-counter.vercel.app%2Fapi%2Fdesoukkkii&style=for-the-badge&color=DC143C" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.data.totalStars&url=https%3A%2F%2Fapi.github-star-counter.vercel.app%2Fapi%2Fdesoukkkii&style=for-the-badge&color=DC143C" />
+</p>
 
-**`// FRONTEND`**
+---
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3)](https://skillicons.dev)
-
-</td>
-<td align="center" width="25%">
-
-**`// LANGUAGES`**
-
-[![Languages](https://skillicons.dev/icons?i=python,cpp&theme=dark&perline=3)](https://skillicons.dev)
-
-</td>
-<td align="center" width="25%">
-
-**`// TOOLS`**
-
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark&perline=4)](https://skillicons.dev)
-
-</td>
-<td align="center" width="25%">
-
-**`// LEARNING`**
-
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=3)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████ TROPHIES ████████████████████████ -->
-## `> achievements --list`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=desoukkkii&theme=blood_moon&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████ STATS ████████████████████████ -->
-## `> git log --stats`
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=github_dark" />
-
-<br/>
-
-<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=github_dark" />
-
-<br/>
-
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=050000&ring=C41E3A&fire=FF2222&currStreakLabel=FF4444&sideLabels=993333&dates=993333&sideNums=ffffff&currStreakNum=ffffff&stroke=2d0000" />
-
-<br/>
-
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=050000&color=C41E3A&line=8B0000&point=FF4444&area=true&area_color=2d0000&hide_border=true&custom_title=%3E%20contribution_history%20--graph" />
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████ SNAKE ████████████████████████ -->
-## `> snake contributions`
-
-<div align="center">
-
-<!--
-  ONE-TIME SETUP — Create .github/workflows/snake.yml:
-
-  name: Generate Snake
-  on:
-    schedule: [{cron: "0 0 * * *"}]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: desoukkkii
-            outputs: |
-              dist/snake.svg
-              dist/snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████ CTA ████████████████████████ -->
-## `> connect --open-to-work`
-
-> Interested in **Web Dev · AI · Robotics · Linux · Open Source**.  
-> If you're building something ambitious — let's talk.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/◈_VIEW_PORTFOLIO-C41E3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quantio.netlify.app/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/◈_SEND_EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desouki.infosec@gmail.com)
-
-<br/><br/>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:1a0000,100:050000&height=130&section=footer" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=desoukkkii&color=DC143C&style=flat-square" alt="Profile views" />
+</p>
