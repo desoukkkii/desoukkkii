@@ -1,109 +1,153 @@
+<!-- ████████████████████████ HEADER ████████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,50:1a0000,100:2d0000&height=160&section=header" />
+
 <div align="center">
 
-<!-- HEADER WAVE — using svg parameter kept minimal for GitHub's camo proxy -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:3d0000,100:1a0000&height=200&section=header&text=Mohammed%20Desouki&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CS%20Student%20·%20AI%20%26%20Robotics%20·%20Full%20Stack%20Developer&descSize=17&descAlignY=60&descColor=ff8080" />
+<!-- BOOT SEQUENCE TYPING -->
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=900&color=C41E3A&center=true&vCenter=true&width=620&height=65&lines=SYSTEM+%3A%2F%2F+DESOUKI_OS+v2.0;%5B+BOOTING...+%5D+Loading+profile...;%3E+CS+Student+%2F+AI+%26+Robotics;%3E+Full+Stack+Developer;%3E+Building+things+that+matter.)](https://quantio.netlify.app/)
+
+<br/>
 
 <!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=desoukkkii&color=C41E3A&style=flat-square&label=Profile+Views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/desoukkkii?color=C41E3A&style=flat-square&logo=github&label=Followers)
 
-<br/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mohammed+%F0%9F%96%90;Computer+Science+Student;AI+%26+Robotics+Enthusiast;Full+Stack+Developer;Building+systems+that+matter.&font=Fira+Code&color=FF4444&weight=600&center=true&width=520&height=55&duration=3000&pause=1000)](https://quantio.netlify.app/)
-
-<br/>
+<br/><br/>
 
 <!-- CONTACT BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-quantio.netlify.app-C41E3A?style=flat-square&logo=googlechrome&logoColor=white)](https://quantio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-desoukkkii-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desoukkkii)
-[![Gmail](https://img.shields.io/badge/Email-desouki.infosec-C41E3A?style=flat-square&logo=gmail&logoColor=white)](mailto:desouki.infosec@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201040166286)
-[![Discord](https://img.shields.io/badge/Discord-desoukkkii-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/desoukkkii)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-quantio.netlify.app-C41E3A?style=flat-square&logoColor=white&logo=googlechrome)](https://quantio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-desoukkkii-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desoukkkii)
+[![Gmail](https://img.shields.io/badge/◈_EMAIL-desouki.infosec-8B0000?style=flat-square&logo=gmail&logoColor=white)](mailto:desouki.infosec@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/◈_WHATSAPP-Message_Me-1a5c1a?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201040166286)
+[![Discord](https://img.shields.io/badge/◈_DISCORD-desoukkkii-3a3a8c?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/desoukkkii)
 
 </div>
-
----
-
-## 🧠 About Me
-
-<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/userupload/22212526/file/original-163af1a9d4a522c79ff7ece742cd37ec.gif" />
-
-I'm a **Computer Science student** building at the intersection of **web development**, **artificial intelligence**, and **robotics**.
-
-- 🎓 CS student focused on AI, Robotics & Full Stack
-- ⚙️ Building clean, scalable, and user-centered systems
-- 🌱 Currently deep-diving into **React**, **Node.js**, and **Express**
-- 🤖 Passionate about **AI/ML**, **Linux Systems**, and **Open Source**
-- 🔍 Committed to writing secure, maintainable, high-quality code
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js&perline=6&theme=dark)](https://skillicons.dev)
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=python,cpp&perline=6&theme=dark)](https://skillicons.dev)
-
-**Tools & Environment**
-
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode&perline=6&theme=dark)](https://skillicons.dev)
-
-**Currently Learning**
-
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,express&perline=6&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=desoukkkii&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=github_dark" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=github_dark" />
 
 <br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=github_dark" />
+<!-- ████████████████████████ WHOAMI ████████████████████████ -->
+## `> whoami`
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+```
+┌──────────────────────────────────┐
+│  IDENTITY     Mohammed Desouki   │
+│  LOCATION     Egypt              │
+│  ROLE         CS Student         │
+│  FOCUS        AI · Robotics ·    │
+│               Full Stack Dev     │
+└──────────────────────────────────┘
+```
+
+> Architect of clean, scalable systems.  
+> I build at the intersection of **web development**,  
+> **artificial intelligence**, and **robotics**.
+
+- `[*]` Writing secure, maintainable code
+- `[*]` Exploring AI/ML & intelligent systems
+- `[*]` Deep in **Linux** environments
+- `[*]` Currently mastering **React · Node · Express**
+- `[*]` Open to collaborations & open source
+
+</td>
+<td width="46%" align="center" valign="top">
+
+<img src="https://cdn.dribbble.com/userupload/22212526/file/original-163af1a9d4a522c79ff7ece742cd37ec.gif" width="100%" style="border-radius:8px" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=0d0000&ring=C41E3A&fire=FF4444&currStreakLabel=FF4444&sideLabels=ff8080&dates=ff8080&sideNums=ffffff&currStreakNum=ffffff&stroke=C41E3A" />
+<!-- ████████████████████████ SKILLS ████████████████████████ -->
+## `> ls skills/`
 
-<br/>
+<div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=0d0000&color=FF4444&line=C41E3A&point=ffffff&area=true&area_color=3d0000&hide_border=true&custom_title=Contribution%20Activity" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+**`// FRONTEND`**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**`// LANGUAGES`**
+
+[![Languages](https://skillicons.dev/icons?i=python,cpp&theme=dark&perline=3)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**`// TOOLS`**
+
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark&perline=4)](https://skillicons.dev)
+
+</td>
+<td align="center" width="25%">
+
+**`// LEARNING`**
+
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=3)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<!-- ████████████████████████ TROPHIES ████████████████████████ -->
+## `> achievements --list`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=desoukkkii&theme=blood_moon&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████ STATS ████████████████████████ -->
+## `> git log --stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desoukkkii&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desoukkkii&theme=github_dark" />
+
+<br/>
+
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desoukkkii&theme=github_dark" />
+
+<br/>
+
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=desoukkkii&hide_border=true&background=050000&ring=C41E3A&fire=FF2222&currStreakLabel=FF4444&sideLabels=993333&dates=993333&sideNums=ffffff&currStreakNum=ffffff&stroke=2d0000" />
+
+<br/>
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=desoukkkii&bg_color=050000&color=C41E3A&line=8B0000&point=FF4444&area=true&area_color=2d0000&hide_border=true&custom_title=%3E%20contribution_history%20--graph" />
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████ SNAKE ████████████████████████ -->
+## `> snake contributions`
 
 <div align="center">
 
 <!--
-  ONE-TIME SETUP: Add this GitHub Actions workflow to auto-generate the snake.
-  Create: .github/workflows/snake.yml
+  ONE-TIME SETUP — Create .github/workflows/snake.yml:
 
   name: Generate Snake
   on:
@@ -130,26 +174,28 @@ I'm a **Computer Science student** building at the intersection of **web develop
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/desoukkkii/desoukkkii/output/snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<br/>
 
-## 🤝 Open to Collaboration
+<!-- ████████████████████████ CTA ████████████████████████ -->
+## `> connect --open-to-work`
 
-I'm looking to collaborate on projects in **Web Development**, **AI & Machine Learning**, **Robotics**, **Linux Systems**, and **Open Source**.
+> Interested in **Web Dev · AI · Robotics · Linux · Open Source**.  
+> If you're building something ambitious — let's talk.
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%23C41E3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quantio.netlify.app/)
-&nbsp;
-[![Send Email](https://img.shields.io/badge/Send%20Email-%23C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desouki.infosec@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_VIEW_PORTFOLIO-C41E3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quantio.netlify.app/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/◈_SEND_EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desouki.infosec@gmail.com)
 
 <br/><br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:0d0000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:1a0000,100:050000&height=130&section=footer" />
 
 </div>
