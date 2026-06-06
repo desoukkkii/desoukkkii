@@ -20,7 +20,7 @@ I'm a **Computer Science Student** and **Full Stack Developer** passionate about
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://quantio.netlify.app/" target="_blank">
+  <a href="https://quantio-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F48024?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/desoukkkii" target="_blank">
