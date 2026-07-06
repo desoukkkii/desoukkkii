@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Desouki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast;Linux+Lover&color=DC143C&weight=600&font=Fira%20Code&center=true&width=450&height=50&duration=3500&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning&color=DC143C&weight=600&font=Fira%20Code&center=true&width=450&height=50&duration=3500&pause=1000" alt="Typing SVG">
 </p>
 
 ---
