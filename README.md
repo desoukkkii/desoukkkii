@@ -9,9 +9,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CS_Student-%235a189a?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-%239d4edd?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_%26_Robotics-%237b2cbf?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/CS_Student-%235a189a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-%239d4edd?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_%26_Robotics-%237b2cbf?style=flat-square&logoColor=white" />
 </p>
 
 <br>
@@ -56,9 +56,9 @@ I'm a **Computer Science Student** & **Full Stack Developer** passionate about b
 <tr>
 <td width="33%" valign="top">
 
-<div style="background: rgba(255,255,255,0.02); border: 1px solid #3c096c; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
+<div style="background: #240046; border: 1px solid #5a189a; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
 <h4 align="center" style="margin: 0 0 10px; padding: 4px 0; border-bottom: 2px solid #9d4edd; color: #e0aaff; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">🎨 Frontend</h4>
-<p align="center" style="margin: 0; line-height: 2.2;">
+<p align="center" style="margin: 0; line-height: 1.8;">
   <img src="https://img.shields.io/badge/HTML5-%23e34f26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572b6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB" />
@@ -67,9 +67,9 @@ I'm a **Computer Science Student** & **Full Stack Developer** passionate about b
 </p>
 </div>
 
-<div style="background: rgba(255,255,255,0.02); border: 1px solid #3c096c; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
+<div style="background: #240046; border: 1px solid #5a189a; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
 <h4 align="center" style="margin: 0 0 10px; padding: 4px 0; border-bottom: 2px solid #9d4edd; color: #e0aaff; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">🗄️ Databases</h4>
-<p align="center" style="margin: 0; line-height: 2.2;">
+<p align="center" style="margin: 0; line-height: 1.8;">
   <img src="https://img.shields.io/badge/PostgreSQL-%234169e1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347a248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
@@ -78,9 +78,9 @@ I'm a **Computer Science Student** & **Full Stack Developer** passionate about b
 </td>
 <td width="33%" valign="top">
 
-<div style="background: rgba(255,255,255,0.02); border: 1px solid #3c096c; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
+<div style="background: #240046; border: 1px solid #5a189a; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
 <h4 align="center" style="margin: 0 0 10px; padding: 4px 0; border-bottom: 2px solid #9d4edd; color: #e0aaff; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">💻 Languages</h4>
-<p align="center" style="margin: 0; line-height: 2.2;">
+<p align="center" style="margin: 0; line-height: 1.8;">
   <img src="https://img.shields.io/badge/Python-%233776ab?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white" />
@@ -88,9 +88,9 @@ I'm a **Computer Science Student** & **Full Stack Developer** passionate about b
 </p>
 </div>
 
-<div style="background: rgba(255,255,255,0.02); border: 1px solid #3c096c; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
+<div style="background: #240046; border: 1px solid #5a189a; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
 <h4 align="center" style="margin: 0 0 10px; padding: 4px 0; border-bottom: 2px solid #9d4edd; color: #e0aaff; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">🚀 Deployment</h4>
-<p align="center" style="margin: 0; line-height: 2.2;">
+<p align="center" style="margin: 0; line-height: 1.8;">
   <img src="https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-%230b0d0e?style=flat-square&logo=railway&logoColor=white" />
 </p>
@@ -99,18 +99,18 @@ I'm a **Computer Science Student** & **Full Stack Developer** passionate about b
 </td>
 <td width="33%" valign="top">
 
-<div style="background: rgba(255,255,255,0.02); border: 1px solid #3c096c; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
+<div style="background: #240046; border: 1px solid #5a189a; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
 <h4 align="center" style="margin: 0 0 10px; padding: 4px 0; border-bottom: 2px solid #9d4edd; color: #e0aaff; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">⚙️ DevOps</h4>
-<p align="center" style="margin: 0; line-height: 2.2;">
+<p align="center" style="margin: 0; line-height: 1.8;">
   <img src="https://img.shields.io/badge/Docker-%232496ed?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23f05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 </div>
 
-<div style="background: rgba(255,255,255,0.02); border: 1px solid #3c096c; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
+<div style="background: #240046; border: 1px solid #5a189a; border-radius: 12px; padding: 14px 8px 10px; margin: 4px;">
 <h4 align="center" style="margin: 0 0 10px; padding: 4px 0; border-bottom: 2px solid #9d4edd; color: #e0aaff; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">🌱 Learning</h4>
-<p align="center" style="margin: 0; line-height: 2.2;">
+<p align="center" style="margin: 0; line-height: 1.8;">
   <img src="https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-%23ff4438?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
