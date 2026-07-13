@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mohamedk Billal</h1>
+<h1 align="center">Hi there 👋, I'm Mohamed Billal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning&color=9D4EDD&weight=600&font=Fira%20Code&center=true&width=450&height=50&duration=3500&pause=1000" alt="Typing SVG">
